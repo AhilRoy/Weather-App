@@ -1,3 +1,4 @@
+<img width="1920" height="1200" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/e85ba918-35f1-4f6d-8600-2aaafe4797b3" />
 # Weather-App
 A Python GUI weather application using Open Weather API
 
