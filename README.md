@@ -79,7 +79,6 @@ Python | GUI Development | API Integration
 ## 📄 License
 
 This project is created for educational and portfolio purposes.
-<img width="1920" height="1200" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/b7c30a31-8241-4ef7-9f65-201f219bccd7" />
 
 
 
