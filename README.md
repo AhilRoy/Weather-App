@@ -1,4 +1,3 @@
-<img width="1920" height="1200" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/e85ba918-35f1-4f6d-8600-2aaafe4797b3" />
 # Weather-App
 A Python GUI weather application using Open Weather API
 
@@ -80,8 +79,5 @@ Python | GUI Development | API Integration
 ## 📄 License
 
 This project is created for educational and portfolio purposes.
-
-
-
 <img width="1920" height="1200" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/09ac4167-d09d-4c70-a1a0-264c8b097c00" />
-<img width="1920" height="1200" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/027b020d-e2d9-447c-827b-a06971ed3f
+<img width="1920" height="1200" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/c859cac5-ea73-4250-87d4-7bde943be68b" />
